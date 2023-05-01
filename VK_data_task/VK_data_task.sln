@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VK_data_task", "VK_data_task\VK_data_task.csproj", "{9DB10E12-4A35-429F-A166-57804D33D036}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LoginGenerate", "LoginGenerate\LoginGenerate.vbproj", "{B607F39A-B4B2-4BEF-8D67-96A0DA025BAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DB10E12-4A35-429F-A166-57804D33D036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB10E12-4A35-429F-A166-57804D33D036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB10E12-4A35-429F-A166-57804D33D036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB10E12-4A35-429F-A166-57804D33D036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B607F39A-B4B2-4BEF-8D67-96A0DA025BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B607F39A-B4B2-4BEF-8D67-96A0DA025BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B607F39A-B4B2-4BEF-8D67-96A0DA025BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B607F39A-B4B2-4BEF-8D67-96A0DA025BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBCA1D2F-A9C2-4770-A8AF-8E3A529EF1D4}
+	EndGlobalSection
+EndGlobal
